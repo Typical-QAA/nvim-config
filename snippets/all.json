@@ -1,0 +1,23 @@
+{
+  "note_work": {
+    "prefix": ["NOTEW", "notew"],
+    "body": ["NOTE: (PDzenisevich) $0"],
+    "description": "note_work"
+  },
+  "note": {
+    "prefix": ["NOTE", "note"],
+    "body": ["NOTE: $0"],
+    "description": "note"
+  },
+  "todo": {
+    "prefix": ["TODO", "todo"],
+    "body": ["TODO: $0"],
+    "description": "todo"
+  },
+  "todo_work": {
+    "prefix": ["TODOW", "todow"],
+    "body": ["TODO: (PDzenisevich) $0"],
+    "description": "todo_work"
+  }
+}
+

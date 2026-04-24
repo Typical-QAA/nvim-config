@@ -1,0 +1,5 @@
+npm install -g npm-groovy-lint
+npm install -g @fsouza/prettierd
+npm install -g @johnnymorganz/stylua-bin
+npm install -g neovim
+npm install -g tree-sitter-cli

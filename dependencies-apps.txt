@@ -1,0 +1,22 @@
+stylua
+https://github.com/JohnnyMorganz/StyLua
+
+prettierd
+https://github.com/fsouza/prettierd
+
+ripgrep (rg)
+https://github.com/BurntSushi/ripgrep
+
+fd
+https://github.com/sharkdp/fd
+
+fzf
+https://github.com/junegunn/fzf
+
+editorconfig
+https://editorconfig.org/#download
+
+lazygit
+https://github.com/jesseduffield/lazygit
+
+g++ for treesitter

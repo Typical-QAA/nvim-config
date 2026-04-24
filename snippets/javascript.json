@@ -1,0 +1,18 @@
+{
+  "Playwright describe": {
+    "prefix": "pwd",
+    "description": "Playwright describe",
+    "body": ["test.describe(`${1:description name}`, () => {", "$2", "})"]
+  },
+  "Playwright test": {
+    "prefix": "pwt",
+    "description": "Playwright test",
+    "body": ["test(`${1:test name}`, async ({ $2 }) => {", "$3", "})"]
+  },
+
+  "Playwright step": {
+    "prefix": "pws",
+    "description": "Playwright test step",
+    "body": ["await test.step(`${1:step name}`, async () => {", "$2", "})"]
+  }
+}
